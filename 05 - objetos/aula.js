@@ -9,5 +9,3 @@ const pessoa = {
     }
 };
 
-pessoa['nome'] = 'teste';
-PermissionStatus.nome = 'teste';
